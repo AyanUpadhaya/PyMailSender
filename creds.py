@@ -1,0 +1,2 @@
+sender_email=""
+password=""
