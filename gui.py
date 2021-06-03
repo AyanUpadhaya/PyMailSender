@@ -103,6 +103,7 @@ def mailsend():
         time.sleep(6)
     finally:
         server.quit()
+        attachments.clear()
 """---BACKEND-ENDS--"""
 
 
